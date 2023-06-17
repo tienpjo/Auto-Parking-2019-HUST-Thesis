@@ -1,0 +1,8 @@
+C:\Users\DELL\Downloads\Auto_parking\Auto_parking.SQL\bin\Debug\Auto_parking.SQL.dll.config
+C:\Users\DELL\Downloads\Auto_parking\Auto_parking.SQL\bin\Debug\Auto_parking.SQL.dll
+C:\Users\DELL\Downloads\Auto_parking\Auto_parking.SQL\bin\Debug\Auto_parking.SQL.pdb
+C:\Users\DELL\Downloads\Auto_parking\Auto_parking.SQL\obj\Debug\Auto_parking.SQL.Properties.Resources.resources
+C:\Users\DELL\Downloads\Auto_parking\Auto_parking.SQL\obj\Debug\Auto_parking.SQL.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\Auto_parking\Auto_parking.SQL\obj\Debug\Auto_parking.SQL.dll
+C:\Users\DELL\Downloads\Auto_parking\Auto_parking.SQL\obj\Debug\Auto_parking.SQL.pdb
+C:\Users\DELL\Downloads\Auto_parking\Auto_parking.SQL\obj\Debug\Auto_parking.SQL.csprojResolveAssemblyReference.cache

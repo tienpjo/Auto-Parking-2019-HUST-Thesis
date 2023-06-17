@@ -1,0 +1,2 @@
+Auto_parking/bin
+Auto_parking.SQL/bin
